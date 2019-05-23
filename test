@@ -1,5 +1,0 @@
-This test file was proposed to train myself in committing the work from different terminal but with the same author
-
-This line was added to show that committing this project completed successfully from different directory. Logically, it will also conducted from different terminal
-
-This line was added after executing git pull from the first directory. Committing the difference is conducted by calling git commit.
